@@ -7,10 +7,7 @@
 
 ## Demo
 
-
-
-
-
+![demo](demo.gif)
 
 
 ## Get started
