@@ -1,0 +1,11 @@
+{
+  "name": "rbd-thought-sensor",
+  "version": "1.0.0",
+  "description": "A thought sensor for react-beautiful-dnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie Gerard <charlie.a.gerard@gmail.com",
+  "license": "ISC"
+}
