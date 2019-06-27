@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="rbd-logo-with-controller.jpg" alt="rbd thought sensor logo"/></div>
+<div style="display: block; margin: 0 auto; text-align: center"><img src="rbd-logo-with-controller.jpg" alt="rbd thought sensor logo"/></div>
 
 <section style="text-align: center">
     <h1><strong>rbd-thought-sensor</strong></h1>
@@ -6,7 +6,7 @@
 </section>
 
 ## Demo
----
+
 
 
 
@@ -14,7 +14,7 @@
 
 
 ## Get started
----
+
 
 ### Installation
 
